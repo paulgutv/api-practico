@@ -1,0 +1,19 @@
+{
+  "name": "api-practico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulgutv/api-practico.git"
+  },
+  "author": "paulgutv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulgutv/api-practico/issues"
+  },
+  "homepage": "https://github.com/paulgutv/api-practico#readme"
+}
